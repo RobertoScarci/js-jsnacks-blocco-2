@@ -8,6 +8,9 @@ if(numberDivisibile(firstUserNumber, secondUserNumber)){
     console.log(false)
 }
 
+if(firstUserNumber === secondUserNumber){
+    console.log( firstUserNumber)
+}
 
 // ====Function====
 function numberDivisibile(numberOne, numberTwo) {
