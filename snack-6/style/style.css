@@ -1,0 +1,9 @@
+
+.square{
+    background-color: magenta;
+    height: 300px;
+    width: 300px;
+    border: 2px solid white;
+    padding: 2rem;
+    text-align: center;
+}
