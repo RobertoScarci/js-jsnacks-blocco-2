@@ -1,8 +1,12 @@
+section{
+    display: flex;
+}
+
 
 .square{
     background-color: magenta;
-    height: 300px;
-    width: 300px;
+    height: 100px;
+    width: 100px;
     border: 2px solid white;
     padding: 2rem;
     text-align: center;

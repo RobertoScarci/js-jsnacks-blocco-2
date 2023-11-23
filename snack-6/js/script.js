@@ -5,7 +5,7 @@ const wrapper = document.querySelector('section.wrapper');
 function generateSquare(numberSquare) {
     for(let i = 0; i < numberSquare; i++){
         const newSquare = document.createElement('div');
-        newSquare.className = 'square' 
+        newSquare.className = 'square';
         wrapper.append(newSquare);
     }
 }
